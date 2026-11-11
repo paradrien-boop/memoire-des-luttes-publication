@@ -1,0 +1,15 @@
+{
+ "format": "memoire-des-luttes/index",
+ "version": 1,
+ "packs": [
+  {
+   "id": "commune-1871",
+   "nom": "La Commune de Paris, 1871",
+   "fichier": "packs/commune-1871.json",
+   "cartes": 16,
+   "confiance": "non-signe",
+   "signataire": null,
+   "signature": null
+  }
+ ]
+}
